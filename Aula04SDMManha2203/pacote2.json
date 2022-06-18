@@ -1,0 +1,24 @@
+{
+    "name": "aula04sdmanha2203",
+    "version": "1.0.0",
+    "description": "Aula 04 SD (Sistemas Distribuídos) - Manha 22/03",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/higoviana/Aula04SDMManha2203.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/higoviana/Aula04SDMManha2203.git/issues"
+    },
+    "homepage": "https://github.com/higoviana/Aula04SDMManha2203#readme",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mipsum": "^2.4.3"
+    }
+  }

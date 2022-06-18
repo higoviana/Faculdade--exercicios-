@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "pdfjs": "^2.4.7"
+  },
+  "name": "aula03sdmanha1503",
+  "description": "Aula03 SD **Manha15/03**",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higoviana/Aula03SDManha1503.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higoviana/Aula03SDManha1503/issues"
+  },
+  "homepage": "https://github.com/higoviana/Aula03SDManha1503#readme"
+}

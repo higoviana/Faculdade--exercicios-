@@ -1,0 +1,23 @@
+{
+  "name": "aula04sdmmanha2203",
+  "version": "1.0.0",
+  "description": "Aula04SDMManha2203",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higoviana/Aula04SDMManha2203.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higoviana/Aula04SDMManha2203/issues"
+  },
+  "homepage": "https://github.com/higoviana/Aula04SDMManha2203#readme",
+  "dependencies": {
+    "mipsum": "^2.4.3"
+  }
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- Script que executa sozinho, sem a intervenção do usuário -->
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro JS</title>
+</head>
+<body>
+    <h1>Primeiro JavaScript</h1>
+    <p>Ja me livrei da maldição</p>
+    <script>
+        /*
+        var n1 = Number.parseInt(window.prompt('Digite um numero: '))
+        var n2 = Number.parseInt(window.prompt('Digite outro numero: '))
+        var S = n1+n2
+        window.alert('A soma dos valores é, ' + S) //Concatenação
+        //(number + number) Adição
+        //(string + string) Concatenação
+        */
+
+        //Pode utilizar tambem só number (mais recente)
+
+        var n1 = Number(window.prompt('Digite um numero: '))
+        var n2 = Number(window.prompt('Digite outro numero: '))
+        var S = n1+n2
+        window.alert(`A soma entre ${n1} e ${n2} e ingual a ${S}`) //Concatenação
+
+    </script>
+</body>
+</html>
